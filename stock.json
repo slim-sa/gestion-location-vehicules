@@ -1,0 +1,25 @@
+{
+    "next_vehicule_id": 3,
+    "next_client_id": 1,
+    "next_location_id": 1,
+    "vehicules": [
+        {
+            "id": 1,
+            "marque": "HONDA",
+            "modele": "Accord",
+            "annee": "2003",
+            "prix_jour": 5.0,
+            "disponible": true
+        },
+        {
+            "id": 2,
+            "marque": "VOLKSWAGEN",
+            "modele": "Jetta",
+            "annee": "2014",
+            "prix_jour": 555.0,
+            "disponible": true
+        }
+    ],
+    "clients": [],
+    "locations": []
+}
